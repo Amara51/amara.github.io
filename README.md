@@ -1,4 +1,9 @@
-## Purpose
+## About me
+- Hi, I'm Amara Ezeani
+- I'm currently taking the iot and cybersecurity course
+- I'm in my 3rd year, second semester
+- I study information technology
+- you can reach me at amaraezeani0@gmail.com 
 
 Template to build a versatile blog forked from [jeffreytse](https://github.com/jeffreytse/jekyll-theme-yat)
 
